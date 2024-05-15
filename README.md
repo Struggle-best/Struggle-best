@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 <a href="https://github.com/Struggle-best/"><img align="right" src="https://komarev.com/ghpvc/?username=Struggle-best&label=Views" /></a>
 
 <!--
 **Struggle-best/Struggle-best** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/Struggle-best/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/?username=Struggle-best&show_icons=true&include_all_commits=true&locale=cn&theme=github_dark&hide=prs,issues,contribs" /></a>
+
+<a href="https://github.com/Struggle-best/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Struggle-best&layout=compact&locale=cn&theme=github_dark" /></a>
