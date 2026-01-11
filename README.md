@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 <!-- 
-<img align="right" src="https://komarev.com/ghpvc/?username=Struggle-best&label=Views&color=ff69b4" />
+## Hi there 👋 <a href="https://github.com/Struggle-best/"><img align="right" src="https://komarev.com/ghpvc/?username=Struggle-best&label=Views&color=ff69b4" /></a>
 
 <a href="https://github.com/Struggle-best/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/?username=Struggle-best&show_icons=true&include_all_commits=true&locale=cn&theme=aura_dark&hide=prs,issues,contribs" /></a>
 
