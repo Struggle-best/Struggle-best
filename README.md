@@ -23,8 +23,12 @@ Here are some ideas to get you started:
 
 <div align="left">
   <a href="https://github.com/Struggle-best/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=39D353&center=true&vCenter=true&random=false&width=400&height=40&lines=十年饮冰,难凉热血!;热爱折腾,正在进步~" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=39D353&center=true&vCenter=true&random=false&width=400&height=90&lines=十年饮冰,难凉热血!;热爱折腾,正在进步~" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Struggle-best&theme=buefy" />
 </div>
 
 ## 🛠️ 技术栈
