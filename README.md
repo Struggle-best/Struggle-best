@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Struggle-best&theme=buefy" />
 </div>
 
-## 🛠️ 技术栈
+## 🛠️
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
